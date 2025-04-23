@@ -1,5 +1,5 @@
 {
-    "name": "tomatophp/filament-payments",
+    "name": "taptox/filament-payments",
     "type": "library",
     "description": "Manage your payments inside FilamentPHP app with multi payment gateway integration",
     "keywords": [
